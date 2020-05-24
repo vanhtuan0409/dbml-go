@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/duythinht/dbml-go/token"
+	"github.com/vanhtuan0409/dbml-go/token"
 )
 
 const eof = rune(0)

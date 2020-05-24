@@ -5,10 +5,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/duythinht/dbml-go/annotations"
-	"github.com/duythinht/dbml-go/core"
-	"github.com/duythinht/dbml-go/scanner"
-	"github.com/duythinht/dbml-go/token"
+	"github.com/vanhtuan0409/dbml-go/annotations"
+	"github.com/vanhtuan0409/dbml-go/core"
+	"github.com/vanhtuan0409/dbml-go/scanner"
+	"github.com/vanhtuan0409/dbml-go/token"
 )
 
 // Parser declaration
